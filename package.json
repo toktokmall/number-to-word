@@ -22,6 +22,6 @@
   "author": "Da",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Digital-Aggregator"
+    "registry": "https://npm.pkg.github.com/@Digital-Aggregator"
   }
 }
