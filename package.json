@@ -1,0 +1,24 @@
+{
+  "dependencies": {},
+  "name": "number-to-word",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "*.json",
+    "*.js"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'ok'"
+  },
+  "keywords": [
+    "UB",
+    "map",
+    "khoroo",
+    "district",
+    "mongolia"
+  ],
+  "author": "Da",
+  "license": "ISC"
+}
