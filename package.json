@@ -20,5 +20,8 @@
     "mongolia"
   ],
   "author": "Da",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Digital-Aggregator"
+  }
 }
